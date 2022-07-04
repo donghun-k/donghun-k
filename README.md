@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?text=Dong%20Hun&desc=Aspiring%20Web%20Developer&fontColor=FFFFFF&type=waving&color=000000&height=250&fontSize=70&fontAlign=70&fontAlignY=40&descAlign=70&descAlignY=65&animation=fadeIn)
 
-## Tech Stack
+## :book: Studying
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghun-K&langs_count=8&layout=compact&theme=radical)](https://github.com/donghun-K/github-readme-stats)
 
 ### most interested in
