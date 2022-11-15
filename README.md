@@ -10,5 +10,10 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
+## :pencil:Velog
+https://velog.io/@donghun-k
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&rotate=180&type=waving&color=000000&height=250)
 </div>
+
+
