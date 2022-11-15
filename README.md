@@ -8,9 +8,9 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-## :pencil:Velog
+
+## :pencil: Velog
 https://velog.io/@donghun-k
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&rotate=180&type=waving&color=000000&height=250)
