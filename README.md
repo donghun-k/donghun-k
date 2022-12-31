@@ -10,7 +10,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
-## :pencil: [Velog](https://velog.io/@donghun-k)
+## :pencil: [Study Records]([https://velog.io/@donghun-k](https://likebear.notion.site/Study-Records-c92bf610925a48eaa24246de1c35c66b))
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&rotate=180&type=waving&color=000000&height=250)
