@@ -1,21 +1,18 @@
 <div align="center">
  
-### 🖥️ DongHun, Kim
-**Web Front-End Developer**
+![54E29E62-78A8-4870-AB30-F33280F21A1D_4_5005_c](https://github.com/donghun-k/donghun-k/assets/60064471/a2999f21-2476-485b-a6cb-f87ab6c664d5)
+ 
+**🖥️ Donghun Kim, the Web Front-End Developer 🖥️**
 
-<br/>
+</br>
 
-### 🛠️ Skills
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+##### 🖤 LIKE 🖤
 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![ReactQuery](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
-![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=SWR&logoColor=white)
+<img src="https://img.shields.io/badge/TypeScript-000000?style=plastic&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-000000?style=plastic&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-000000?style=plastic&logo=tailwind css&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=plastic&logo=shadcn/ui&logoColor=white"/>
 
 </div>
