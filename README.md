@@ -1,13 +1,12 @@
 <div align="center">
  
-![54E29E62-78A8-4870-AB30-F33280F21A1D_4_5005_c](https://github.com/donghun-k/donghun-k/assets/60064471/a2999f21-2476-485b-a6cb-f87ab6c664d5)
+![KakaoTalk_Photo_2024-05-24-01-52-17](https://github.com/donghun-k/donghun-k/assets/60064471/d26844a7-f035-442e-a948-5f0b77116575)
+
  
-**🖥️ Donghun Kim, the Web Front-End Developer 🖥️**
+## 🖥️ Donghun Kim, the Developer 🖥️
 
-</br>
 
-##### 🖤 LIKE 🖤
-
+#### 🖤 LIKE 🖤
 
 <img src="https://img.shields.io/badge/TypeScript-000000?style=plastic&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-000000?style=plastic&logo=react&logoColor=white"/>
