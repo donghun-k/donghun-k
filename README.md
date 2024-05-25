@@ -1,9 +1,7 @@
 <div align="center">
  
-![image](https://github.com/donghun-k/donghun-k/assets/60064471/4809f1c4-73b3-48e9-b3fd-9ea0faff2546)
-
+ ![333278531-4809f1c4-73b3-48e9-b3fd-9ea0faff2546](https://github.com/donghun-k/donghun-k/assets/60064471/6b1acee7-7a15-4a70-af2a-bcef7310eb81)
 ### 🖥️ Donghun Kim, the Developer 🖥️
-
 
 #### 🖤 LIKE 🖤
 
