@@ -1,13 +1,19 @@
 <div align="center">
  
- ![333278531-4809f1c4-73b3-48e9-b3fd-9ea0faff2546](https://github.com/donghun-k/donghun-k/assets/60064471/6b1acee7-7a15-4a70-af2a-bcef7310eb81)
-### 🖥️ Donghun Kim, the Developer 🖥️
+![image](https://github.com/donghun-k/donghun-k/assets/60064471/bb140f1c-6da1-4706-8e5d-80b6ad6e96b8)
 
-#### 🖤 LIKE 🖤
+
+### Donghun Kim
+#### Front-End Developer
+
+<br/>
+
+__🖤 LIKE 🖤__
 
 <img src="https://img.shields.io/badge/TypeScript-000000?style=plastic&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-000000?style=plastic&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white"/>
+<br/>
 <img src="https://img.shields.io/badge/Tailwind CSS-000000?style=plastic&logo=tailwind css&logoColor=white"/>
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=plastic&logo=shadcn/ui&logoColor=white"/>
 
