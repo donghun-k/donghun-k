@@ -1,7 +1,4 @@
 <div align="center">
- 
-![image](https://github.com/donghun-k/donghun-k/assets/60064471/bb140f1c-6da1-4706-8e5d-80b6ad6e96b8)
-
 
 ### Donghun Kim
 #### Front-End Developer
