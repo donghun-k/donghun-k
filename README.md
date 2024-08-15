@@ -1,17 +1,21 @@
-<div align="center">
+```javascript
+const profile = {
+    name: "Donghun Kim",
+    birthYear: 1997,
+    occupation: "Web Front-End Developer",
+    favoriteTechStack: [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "shadcn/ui"
+    ],
+    goal: "The Strongest Creature on Earth",
+    hobbies: [
+        "Enjoying Films & Anime",
+        "Weight Training",
+        "Boxing"
+    ]
+};
 
-### Donghun Kim
-#### Front-End Developer
-
-<br/>
-
-__🖤 LIKE 🖤__
-
-<img src="https://img.shields.io/badge/TypeScript-000000?style=plastic&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-000000?style=plastic&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Tailwind CSS-000000?style=plastic&logo=tailwind css&logoColor=white"/>
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=plastic&logo=shadcn/ui&logoColor=white"/>
-
-</div>
+```
