@@ -17,5 +17,4 @@ const profile = {
         "Boxing"
     ]
 };
-
 ```
