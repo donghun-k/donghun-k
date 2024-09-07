@@ -5,14 +5,14 @@ const profile = {
     occupation: "Web Front-End Developer",
     favoriteTechStack: [
         "TypeScript",
-        "React",
+        "Svelte",
         "Next.js",
         "Tailwind CSS",
         "shadcn/ui"
     ],
-    goal: "The Strongest Creature on Earth",
+    goal: "to become the Strongest Creature on Earth",
     hobbies: [
-        "Enjoying Films & Anime",
+        "Films & Anime",
         "Weight Training",
         "Boxing"
     ]
