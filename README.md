@@ -2,15 +2,14 @@
 const profile = {
     name: "Donghun Kim",
     birthYear: 1997,
-    occupation: "Web Front-End Developer",
+    occupation: "Front-End Web Developer",
     favoriteTechStack: [
         "TypeScript",
-        "Svelte",
         "Next.js",
         "Tailwind CSS",
         "shadcn/ui"
     ],
-    goal: "to become the Strongest Creature on Earth",
+    goal: "To become the Strongest Creature on Earth",
     hobbies: [
         "Films & Anime",
         "Weight Training",
