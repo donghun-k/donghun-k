@@ -1,4 +1,4 @@
-```javascript
+```typescript
 const profile = {
     name: "Donghun Kim",
     occupation: "Front-End Web Developer",
@@ -8,10 +8,9 @@ const profile = {
         "Next.js",
         "NestJS"
     ],
-    goal: "To become the Strongest Creature on Earth",
-    hobbies: [
-        "Films & Anime",
-        "Weight Training",
+    personalInterests: [
+        "Films",
+        "Anime",
         "Boxing"
     ]
 };
