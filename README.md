@@ -11,7 +11,6 @@ const profile = {
     personalInterests: [
         "Films",
         "Anime",
-        "Boxing"
     ]
 };
 ```
